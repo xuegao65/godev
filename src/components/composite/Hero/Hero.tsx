@@ -35,8 +35,13 @@ const Hero: FC = () => {
             marginBottom: "10px",
           }}
         >
-          <h2 style={{ color: "white" }}>
-            <strong>CA: </strong>
+          <h2 style={{ color: "white", fontStyle: "italic" }}>
+            <strong>
+              CA:{" "}
+              <span style={{ fontSize: "20px" }}>
+                {"<"}TO BE ANNOUNCED{">"}
+              </span>
+            </strong>
           </h2>
         </div>
 

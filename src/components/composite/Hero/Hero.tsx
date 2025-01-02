@@ -36,12 +36,7 @@ const Hero: FC = () => {
           }}
         >
           <h2 style={{ color: "white", fontStyle: "italic" }}>
-            <strong>
-              CA:{" "}
-              <span style={{ fontSize: "20px" }}>
-                {"<"}TO BE ANNOUNCED{">"}
-              </span>
-            </strong>
+            <strong>CA: 6J9HfRCyHSDWMR4HsBZaUWYwaLrcVY7KeUowuHibpump</strong>
           </h2>
         </div>
 

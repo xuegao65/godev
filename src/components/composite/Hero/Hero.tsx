@@ -27,6 +27,19 @@ const Hero: FC = () => {
           </div>
         </div>
 
+        <div
+          style={{
+            display: "flex",
+            alignItems: "center",
+            justifyContent: "center",
+            marginBottom: "10px",
+          }}
+        >
+          <h2 style={{ color: "white" }}>
+            <strong>CA: </strong>
+          </h2>
+        </div>
+
         <div className={styles.content}>
           <h1 className={styles.title}>
             <span className={styles.highlight}>PROPHECY</span>
